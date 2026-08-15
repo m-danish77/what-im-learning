@@ -2,8 +2,7 @@
 
 [Chrome Dev Tools Class](https://youtu.be/NmH7qRscP28)
 
-**DevelopedByEd - The Creative HTML5 & CSS3 Course**
-[Download](https://pixeldrain.com/u/3ueATaKt)
+[All the JS you need before React](https://youtu.be/bCkfU_wHPcY)
 
 **Byte Grad React & Next.js Course Download **
 [1st](https://drive.usercontent.google.com/download?id=12EiDCngKh9rTyeZ2d66OSkz9fVVml11r&export=download&authuser=0)
