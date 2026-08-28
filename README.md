@@ -12,3 +12,5 @@
 [5th](https://drive.usercontent.google.com/download?id=1eZjF1qby_eIdwCz7AD4dIC3oKUA4prsY&export=download&authuser=0)
 [6th](https://drive.usercontent.google.com/download?id=1teSriV1ZouvPSlfM4W_-67FKBJJ-D-5e&export=download&authuser=0)
 [7th](https://drive.usercontent.google.com/download?id=1-jRzBBbT6JvsvxmoWaXK8tHGUavapurm&export=download&authuser=0)
+
+[Next.js Beginner Documentation Course by Vercel](https://vercel.com/academy/nextjs-foundations)
