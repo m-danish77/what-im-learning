@@ -18,7 +18,7 @@
 
 ## AI Engineering
 
-### Udemy — AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents (2026-1)
+### Udemy — AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents (2026)
 
 **1st Part**
 https://pixeldrain.com/u/JGybEDRQ
